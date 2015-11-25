@@ -1,14 +1,24 @@
 {
-  "name": "chmod-plus",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "chmod"
-  ],
-  "author": "Gary Rutland <me@garyrutland.com>",
-  "license": "ISC"
+    "name": "chmod-plus",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+        "chmod",
+        "permissions",
+        "file",
+        "dir",
+        "directory",
+        "folder"
+    ],
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/garyrutland/npm-chmod-plus"
+    },
+    "homepage": "https://github.com/garyrutland/npm-chmod-plus",
+    "author": "Gary Rutland <me@garyrutland.com>",
+    "license": "ISC",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
 }
