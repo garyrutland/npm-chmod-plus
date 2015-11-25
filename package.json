@@ -1,0 +1,14 @@
+{
+  "name": "chmod-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chmod"
+  ],
+  "author": "Gary Rutland <me@garyrutland.com>",
+  "license": "ISC"
+}
