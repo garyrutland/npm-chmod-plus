@@ -1,7 +1,7 @@
 {
   "name": "chmod-plus",
   "version": "0.0.1",
-  "description": "",
+  "description": "Change permissions for both files and directories",
   "keywords": [
     "chmod",
     "permissions",
