@@ -1,5 +1,7 @@
 # Chmod plus
 
+Change permissions for both files and directories
+
 ## Install
 
     npm install chmod-plus -g
