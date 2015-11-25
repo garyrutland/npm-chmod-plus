@@ -7,12 +7,12 @@
 ## Usage
 
     var chmod-plus = require('chmod-plus');
-    chmod-plus.directory(755, file);
-    chmod-plus.file(755, dir);
+    chmod-plus.directory(755, dir);
+    chmod-plus.file(755, file);
 
 Directories can also be recursive:
 
-    chmod-plus.directory(755, file, {
+    chmod-plus.directory(755, dir, {
         recursive: true
     });
 
